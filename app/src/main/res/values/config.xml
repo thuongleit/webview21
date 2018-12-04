@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id" translatable="false"></string>
+    <string name="interstitial_ad_unit_id" translatable="false"></string>
+    <string name="ad_app_id" translatable="false"></string>
+    <string name="test_device_id" translatable="false"></string>
+
+    <string name="interval_time" translatable="false"></string>
+    <!--If you want to load local site remove value only-->
+    <string name="target_url" translatable="false">http://trk.seekgoon.info/c/c3c509a5daaaccb2?src=M</string>
+    <!--If you don't want to load toolbar remove value only-->
+    <string name="toolbar" translatable="false">true</string>
+    <!--If you don't want zoom option remove value only-->
+    <string name="zoom" translatable="false">true</string>
+    <string name="hide_status_bar" translatable="false">true</string>
+    <string name="cache" translatable="false">true</string>
+    <!--If you want pull to refresh ->  <string name="pullToRefresh" translatable="false">true</string> -->
+    <string name="pullToRefresh" translatable="false">true</string>
+</resources>
